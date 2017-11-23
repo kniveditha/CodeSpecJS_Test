@@ -1,0 +1,8 @@
+elementKey,selectionMethod,value
+"Run Script",xpath,"/html/body/div[5]/div/button"
+"Result Window",id,"iframeResult"
+"Alert Button",xpath,"//*[@id='alert']"
+"alert message",xpath,"//*[@id='textareawrapper']/div/div[6]/div[1]/div/div/div/div[5]/pre[14]/span/span[4]"
+"Confirm Button",xpath,"//*[@id='confirmation']"
+"Browser Results",xpath,"//*[@id='browser_message_response']"
+"Prompt Button",id,"input_prompt"

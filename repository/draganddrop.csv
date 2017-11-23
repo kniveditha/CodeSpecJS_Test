@@ -1,0 +1,4 @@
+elementKey,selectionMethod,value
+"Draggable Object",xpath,"//*[@id='draggableview']"
+"Droppable Object",xpath,"//*[@id='droppableview']"
+"Dropped Message",xpath,"//*[@id='droppableview']/p"
